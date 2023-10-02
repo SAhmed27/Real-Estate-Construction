@@ -1,0 +1,39 @@
+.counter-box {
+  display: block;
+  background: #F28C28;
+  padding: 40px 20px 37px;
+  text-align: center;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.counter-box p {
+  margin: 5px 0 0;
+  padding: 0;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.counter-box i {
+  font-size: 60px;
+  margin: 0 0 15px;
+  color: #fff;
+}
+
+.counter {
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 28px;
+}
+
+.counter-box.colored {
+  background: #F28C28;
+}
+
+.counter-box.colored p,
+.counter-box.colored i,
+.counter-box.colored .counter {
+  color: #fff;
+}
