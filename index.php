@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>House Construction</title>
     <meta name="description"
-        content="Terramosaic Lifespaces, a new name in the construction market but, we assure you we have a lineage, expertise and passion for infrastructure and development.">
+        content="Real Estate, a new name in the construction market but, we assure you we have a lineage, expertise and passion for infrastructure and development.">
     <?php require_once('headtags.php'); ?>
 
 </head>
